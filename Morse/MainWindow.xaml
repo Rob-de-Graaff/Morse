@@ -1,0 +1,16 @@
+﻿<Window x:Class="Morse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Morse"
+        mc:Ignorable="d"
+        Title="Morse Code" Height="485" Width="810" WindowStartupLocation="CenterScreen" MinWidth="810" MinHeight="485">
+    <Grid Margin="10,0,3.6,-0.4">
+        <TextBox x:Name="textboxLeft" HorizontalAlignment="Left" Height="439" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="310" VerticalScrollBarVisibility="Visible" />
+        <TextBox x:Name="textboxRight" HorizontalAlignment="Left" Height="439" Margin="480,10,-0.4,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="310" VerticalScrollBarVisibility="Visible" />
+
+        <Button x:Name="buttonEncoding" Content="Encode =>" HorizontalAlignment="Left" Margin="325,149,0,0" VerticalAlignment="Top" Width="150" Height="76" Click="ButtonEncryption_Click" />
+        <Button x:Name="buttonDecoding" Content="&lt;= Decode" HorizontalAlignment="Left" Margin="325,230,0,0" VerticalAlignment="Top" Width="150" Height="75" Click="ButtonDecryption_Click" />
+    </Grid>
+</Window>

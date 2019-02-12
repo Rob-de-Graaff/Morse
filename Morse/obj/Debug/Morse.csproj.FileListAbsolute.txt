@@ -1,0 +1,15 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\bin\Debug\Morse.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\bin\Debug\Morse.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\bin\Debug\Morse.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\Morse.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\MainWindow.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\App.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\Morse_MarkupCompile.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\Morse_MarkupCompile.lref
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\MainWindow.baml
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\Morse.g.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\Morse.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\Morse.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\Morse.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 9 Nederlands naar Morse code en vice versa\Morse\Morse\obj\Debug\Morse.pdb
